@@ -11,6 +11,10 @@ public class TiposVariaveis {
 
         System.out.println(valor+" mas poderia ser "+!valor+"! Você está certo disso? ;D");
 
+        String resultado = valor==true ? "Verdadeiro":"Falso";
+
+        System.out.println(resultado);
+
         sc.close();
     }
 }
