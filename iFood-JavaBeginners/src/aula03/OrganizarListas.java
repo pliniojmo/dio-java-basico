@@ -23,6 +23,7 @@ public class OrganizarListas {
 
         System.out.println("Ordem nome: ");
 
+        //reference method
         meusGatos.sort(Comparator.comparing(Gato::getNome));
 
         System.out.println(meusGatos);
