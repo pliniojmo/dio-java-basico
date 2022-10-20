@@ -17,8 +17,14 @@ public class OrganizarListas {
         List<Gato> meusGatos = new ArrayList<>(){{
             add(new Gato("Jon", 12, "preto"));
             add(new Gato("Simba", 6, "tigrado"));
-            add(new Gato("Jon", 18, "amarelo"));
+            add(new Gato("Caramelo", 18, "amarelo"));
         }};
+        System.out.println(meusGatos);
+
+        System.out.println("Ordem nome: ");
+
+        meusGatos.sort(Comparator.comparing(Gato::getNome));
+
         System.out.println(meusGatos);
         
         System.out.println("Ordem aleatória: ");
