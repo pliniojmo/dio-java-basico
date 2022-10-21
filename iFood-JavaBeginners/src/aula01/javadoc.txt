@@ -1,1 +1,0 @@
-javadoc -encoding UTF-8 -docencoding ISO-8859-1  -d ../docs  Calculadora.java

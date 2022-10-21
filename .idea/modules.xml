@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/dio-java-basico.iml" filepath="$PROJECT_DIR$/.idea/dio-java-basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iFood-JavaBeginners/src/iFood-JavaBeginners.iml" filepath="$PROJECT_DIR$/iFood-JavaBeginners/src/iFood-JavaBeginners.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iFood-JavaBeginners/iFood-JavaBeginners1.iml" filepath="$PROJECT_DIR$/iFood-JavaBeginners/iFood-JavaBeginners1.iml" />
+    </modules>
+  </component>
+</project>
