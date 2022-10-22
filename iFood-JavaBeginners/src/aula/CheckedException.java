@@ -15,7 +15,7 @@ public class CheckedException {
             e.printStackTrace();           
         }
 
-        System.out.println("Apesar da exception ou não, o programa continua...");
+        //System.out.println("Apesar da exception ou não, o programa continua...");
     }
 
     public static void imprimirArquivoNoConsole (String nomeDoArquivo) throws IOException{
